@@ -1,11 +1,6 @@
 # Emotion Recognition Papers
 
-__TOC__
-
-- facial expression
-- speech emotion
-- body gesture & pose
-- signals
+list of Emotion Recognition Papers
 
 ## Facial expression
 
