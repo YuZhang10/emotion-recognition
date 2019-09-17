@@ -7,7 +7,7 @@ __TOC__
 - body gesture & pose
 - signals
 
-### facial expression
+## Facial expression
 
 | Paper                                                        | metric                                          | citation | code link                                                    | note                                       |
 | ------------------------------------------------------------ | ----------------------------------------------- | -------- | ------------------------------------------------------------ | ------------------------------------------ |
@@ -19,23 +19,23 @@ __TOC__
 | A Study on Emotion Recognition Based on Hierarchical Adaboost Multi-class Algorithm(2018) | 93% on CFAPS                                    | 1        |                                                              | Adaboost                                   |
 | Multi-Objective Differential Evolution for feature selection in Facial Expression Recognition systems(2017) | 98.37% on CK+, 92.75% on JAFFE, 84.07% on MMI   | 22       |                                                              | SVM                                        |
 
-### speech emotion
+## Speech
 
 | Paper                                                        | metric | citation | code link | note |
 | ------------------------------------------------------------ | ------ | -------- | --------- | ---- |
 | Adieu features? End-to-end speech emotion recognition using a deep convolutional recurrent network（2016,ICASSP） |        | 315      |           |      |
 
-### body gesture|pose
+## Pose
 
 under going...
 
-### signal
+## Signal
 
 | Paper                                              | metric           | citation | code link | note |
 | -------------------------------------------------- | ---------------- | -------- | --------- | ---- |
 | Emotion recognition using wireless signals（2016） | 85% in 4 classes | 146      |           |      |
 
-### Multimodal
+## Multimodal
 
 | Paper                                                        | metric                          | citation | code link | note |
 | ------------------------------------------------------------ | ------------------------------- | -------- | --------- | ---- |
