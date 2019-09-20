@@ -16,6 +16,19 @@ list of Emotion Recognition Papers
 
 
 
+### code list
+
+| code                                                         | star | dataset                                                      |                                                              | paper                                                        | performance |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
+| [d-acharya/CovPoolFER](https://github.com/d-acharya/CovPoolFER) | 50   | Real-World Affective Faces([RAF-DB](http://www.whdeng.cn/RAF/model1.html)) | 29672 images6 basic expressions plus neutral and 12 compound expressions | [Covariance Pooling For Facial Expression Recognition](https://arxiv.org/abs/1805.04855)(cited 15)（[Covariance Pooling](https://paperswithcode.com/sota/facial-expression-recognition-on-static)） | 87.0%       |
+| [d-acharya/CovPoolFER](https://github.com/d-acharya/CovPoolFER) | 50   | [Static Facial Expressions in the Wild](https://paperswithcode.com/sota/facial-expression-recognition-on-static) |                                                              | [Covariance Pooling For Facial Expression Recognition](https://arxiv.org/abs/1805.04855)(cited 15)（[Covariance Pooling](https://paperswithcode.com/sota/facial-expression-recognition-on-static)） | 58.14%      |
+| [ bbenligiray/greedy-face-features](https://github.com/bbenligiray/greedy-face-features) | 8    | Cohn-Kanade                                                  |                                                              | [Greedy Search for Descriptive Spatial Face Features](https://ieeexplore.ieee.org/document/7952406)(cited 3)（Sequential forward selection） | 88.7%       |
+| [MaxLikesMath/DeepLearningImp](https://github.com/MaxLikesMath/DeepLearningImplementations) | 5    | [MMI](https://paperswithcode.com/sota/facial-expression-recognition-on-mmi) | 740 images and 2,900 videos6 basic expressions + neutral     | [DeXpression: Deep Convolutional Neural Network for Expression Recognition](https://arxiv.org/abs/1509.05371)(cited 74) （DeXpression） | 98.63%      |
+| [Open-Debin/Emotion-FAN](https://github.com/Open-Debin/Emotion-FAN) | 9    | [The Extended Cohn-Kanade Dataset(CK+)](https://paperswithcode.com/sota/facial-expression-recognition-on-the-extended) |                                                              | [Frame attention networks for facial expression recognition in videos](https://arxiv.org/abs/1907.00193) | 99.69%      |
+| [Open-Debin/Emotion-FAN](https://github.com/Open-Debin/Emotion-FAN) | 9    | [Acted Facial Expressions In The Wild (AFEW)](https://paperswithcode.com/sota/facial-expression-recognition-on-acted-facial) | 1,809 videos6 basic expressions + neutral                    | [Frame attention networks for facial expression recognition in videos](https://arxiv.org/abs/1907.00193) | 51.181%     |
+
+
+
 FER systems can be divided into two main categories according to the feature representations: static image FER and dynamic sequence FER. 
 
 ### Static image FER
